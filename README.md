@@ -6,6 +6,8 @@
 ### Objective
 The objective of this project is to enhance our marketing strategies by conducting a comprehensive marketing analysis and calculating Recency, Frequency, and Monetary (RFM) rates. By leveraging SQL, Snowflake, Python, and Tableau, we aim to gain deep insights into customer behavior and segment our customers effectively to drive targeted marketing campaigns and increase overall business revenue.
 
+![Marketing Analysis](https://github.com/borisyalcin/marketing-rfm-analysis/assets/155834534/bbc42578-9554-46df-8a6e-e6480972e39a)
+
 ### Tools and Technologies
 * SQL: Used for data extraction, transformation, and loading (ETL) processes.
 * Snowflake: Serves as the cloud data warehousing solution to store and manage large datasets.
